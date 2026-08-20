@@ -1,0 +1,1 @@
+This is a one page website for Jeff for his business KIMBO Fresh. It is a single page website with basic contacts, location and products offered.
